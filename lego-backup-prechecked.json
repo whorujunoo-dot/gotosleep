@@ -1,0 +1,28 @@
+{
+  "totalSaved": 90,
+  "perNight": 30,
+  "streakBonus": 60,
+  "currentStreak": 3,
+  "bestStreak": 3,
+  "goalName": "레고 스포츠카",
+  "goalAmount": 900,
+  "history": [
+    {
+      "date": "2026-06-04",
+      "success": true,
+      "earned": 30
+    },
+    {
+      "date": "2026-06-07",
+      "success": true,
+      "earned": 30
+    },
+    {
+      "date": "2026-06-08",
+      "success": true,
+      "earned": 30
+    }
+  ],
+  "goalsCompleted": 0,
+  "musicOn": true
+}
